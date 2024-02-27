@@ -11,6 +11,7 @@ void mostrarMenu() {
     cout << "3. Aplicar descuento por pronto pago." << endl;
     cout << "4. Mostrar el reporte de estado de cuentas." << endl;
     cout << "5. Salir." << endl;
+    cout << "6. iojdiogsjdigi." << endl;
     cout << "Ingrese su opción: ";
 }
 
