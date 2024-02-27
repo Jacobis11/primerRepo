@@ -6,11 +6,11 @@ using namespace std;
 // Función para mostrar el menú
 void mostrarMenu() {
     cout << " MENÚ " << endl;
-    cout << "1. Agregar deuda por tomar materias" << endl;
-    cout << "2. Facturar un monto al momento de pagar" << endl;
-    cout << "3. Aplicar descuento por pronto pago" << endl;
-    cout << "4. Mostrar el reporte de estado de cuentas" << endl;
-    cout << "5. Salir" << endl;
+    cout << "1. Agregar deuda por tomar materias." << endl;
+    cout << "2. Facturar un monto al momento de pagar." << endl;
+    cout << "3. Aplicar descuento por pronto pago." << endl;
+    cout << "4. Mostrar el reporte de estado de cuentas." << endl;
+    cout << "5. Salir." << endl;
     cout << "Ingrese su opción: ";
 }
 
